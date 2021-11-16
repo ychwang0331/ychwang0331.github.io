@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post example"
-date:   2021-11-15 22:00:00
+date:   2021-11-15 21:00:00
 blurb: "Things change, roll with it."
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
