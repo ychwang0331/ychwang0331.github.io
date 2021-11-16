@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site is Yucheng's personal website. I am currently a master student in CMU majored in Statistis, nice to meet you here! <a href="http://dangrover.com">website</a>.
+  Welcome! This site is Yucheng's personal website. I am currently a master student in CMU majored in Statistis, nice to meet you here! <a href="https://ychwang0331.github.io/">website</a>.
 </p>
 
 <p>
