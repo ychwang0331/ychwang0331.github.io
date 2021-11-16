@@ -2,11 +2,11 @@
 layout: home
 profile_picture:
   src: /assets/img/image.png
-  alt: website picture
+  alt: me
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome! This site is Yucheng's personal website. I am currently a master student in CMU majored in Statistis, nice to meet you here! <a href="http://dangrover.com">website</a>.
 </p>
 
 <p>
