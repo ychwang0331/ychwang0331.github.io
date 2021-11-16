@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/WeChat3a21a50632b2e9494ace08d177dbaa5e.png
+  src: /assets/img/image.png
   alt: website picture
 ---
 
