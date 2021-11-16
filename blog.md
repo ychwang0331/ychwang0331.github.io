@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: Research
 title: Blog
 slug: /blog
 ---
