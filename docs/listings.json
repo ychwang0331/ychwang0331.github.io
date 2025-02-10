@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/event/index.html",
+      "/posts/news/index.html",
+      "/posts/paper/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/event/index.html",
+      "/posts/news/index.html",
+      "/posts/paper/index.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": []
+  }
+]
