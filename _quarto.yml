@@ -36,7 +36,7 @@ website:
         href: files/cv.pdf 
         
       - icon: github
-        href: https://github.com/ywang-stat # 我看你在下面写了 ywang-stat，确保这是你真实的用户名
+        href: https://github.com/ychwang0331 # 我看你在下面写了 ychwang0331，确保这是你真实的用户名
         target: _blank
         
       - icon: linkedin 
@@ -53,7 +53,7 @@ website:
     center: "Powered by [Quarto](https://quarto.org)"
     right:  
       - icon: github
-        href: https://github.com/ywang-stat
+        href: https://github.com/ychwang0331
         target: _blank
       - icon: envelope
         href: mailto:yuw260@pitt.edu 
@@ -66,7 +66,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/ywang-stat/yucheng-wang.github.io # 这里建议填完整仓库地址
+  repo-url: https://github.com/ychwang0331/yucheng-wang.github.io # 这里建议填完整仓库地址
   
   open-graph: true
   
