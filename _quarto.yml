@@ -66,13 +66,13 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/ychwang0331/yucheng-wang.github.io # 这里建议填完整仓库地址
+  repo-url: https://github.com/ychwang0331/ychwang0331.github.io # 改成你的新仓库名
   
   open-graph: true
   
   twitter-card: true 
   
-  site-url: "https://yucheng-wang.github.io" # 确保这和你 GitHub Settings 里的 Pages 域名一致
+  site-url: "https://ychwang0331.github.io" # 确保这和你 GitHub Settings 里的 Pages 域名一致
   
   google-analytics:
     tracking-id: "" 
