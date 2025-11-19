@@ -1,13 +1,49 @@
+- title: "cf-TREBLE: A Novel Cell-free DNA Analysis Framework"
+  subtitle: "Under review at Nature Communications"
+  author: "Yucheng Wang"
+  description: "Proposed a rigorous Bayesian statistical framework for large-scale methylation-data analysis. Developed a novel tree-based hierarchical model and reimplemented core methods in C++ for 70% runtime improvement."
+  started: "Nov 2023"
+  ended: "Aug 2025"
+  path: ""  # 等论文发表后填论文链接
+  funding: "Andrew W. Mellon Predoctoral Fellowship"
+  categories: [Bayesian Statistics, Genomics, C++]
 
-    - path: https://www.nsf.gov/ 
-      image: https://nsf-gov-resources.nsf.gov/styles/featured_content_tablet/s3/2023-10/NSF_Official_logo_Med_Res_600ppi_rectangle.png
-      title: "Exploring "
-      author: Academic Website
-      subtitle: "Funder"
-      description: "The goal of this project is to investigate ."
-      started: "2024"
-      ended: "2025"
-      funding: "$0"
-#      date: "2022-10-26"
-#      categories: [] 
+- title: "Fragment-based Deconvolution Algorithm"
+  subtitle: "Methodological Research"
+  author: "Yucheng Wang"
+  description: "Developed a likelihood-based fragment-level cfDNA deconvolution method capturing CpG correlations via a spatial probit model with a Matérn kernel. Implemented efficient Gibbs sampling for HPC clusters."
+  started: "Mar 2024"
+  ended: "Present"
+  path: ""
+  funding: ""
+  categories: [Spatial Statistics, MCMC, High Performance Computing]
 
+- title: "Cell-free DNA Methylation Analysis for Endometriosis"
+  subtitle: "Clinical Data Analysis (Minor Revision)"
+  author: "Yucheng Wang"
+  description: "Analyzed cfDNA methylation profiles from 637 endometriosis cases. Identified key immune and endothelial cell variation factors (Factor 11) and potential biomarkers for minimally invasive diagnosis."
+  started: "Aug 2023"
+  ended: "Dec 2024"
+  path: ""
+  funding: ""
+  categories: [Biomarker Discovery, Data Analysis]
+
+- title: "Admixture and Survival Analysis of Heart Failure"
+  subtitle: "Collaborative Project with Pitt School of Medicine"
+  author: "Yucheng Wang"
+  description: "Estimated African ancestry proportions in 505 patients via admixture modeling. Conducted GWAS to identify genetic markers linked to treatment efficacy and mortality risk."
+  started: "Aug 2023"
+  ended: "Jan 2024"
+  path: ""
+  funding: ""
+  categories: [Survival Analysis, GWAS, Precision Medicine]
+
+- title: "Automated Weather Forecasting Pipeline"
+  subtitle: "Collaborative Project with Allegheny County Health Dept"
+  author: "Yucheng Wang"
+  description: "Built an automated ETL pipeline for continuous weather-data acquisition. Developed predictive models using XGBoost and ARIMA, achieving high agreement with official forecasts."
+  started: "Feb 2022"
+  ended: "May 2022"
+  path: "" 
+  funding: ""
+  categories: [Machine Learning, Time Series, Data Engineering]

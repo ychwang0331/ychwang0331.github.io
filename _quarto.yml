@@ -3,73 +3,60 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Yucheng Wang - Ph.D. Student in Statistics at University of Pittsburgh"
+author-meta: "Yucheng Wang"
 
 website:
-  title: "Quarto Academic"
-  image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
- 
+  title: "Yucheng Wang"
+  image: "files/profile.jpeg" # 注意：你这里写的是 jpeg，请确保你的照片文件后缀确实是 .jpeg 而不是 .jpg
+  description: "Personal website of Yucheng Wang, Ph.D. Student in Statistics."
+  
   navbar:
-    background: light  # You can change the background color here
+    background: light 
 
-    left:   # You can comment out all navigation items here if you just like to keep the index page only
-#      - text: Home
-#        href: index.qmd
-      - text: About
-        menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
+    left:   
+      - text: Home
+        href: index.qmd
+        
       - text: Research
         menu:
-          - text: List of Publications
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
-        href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group   # Comment the Group part out to remove the Group page
-        href: people.qmd
+          - text: Publications & Manuscripts
+            href: publications.qmd 
+          - text: Projects
+            href: projects.qmd   
+                      
+      - text: Experience 
+        href: experience.qmd 
+
+      - text: Contact
+        href: contact.qmd             
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/cv.pdf 
+        
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/ywang-stat # 我看你在下面写了 ywang-stat，确保这是你真实的用户名
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
+        
+      - icon: linkedin 
+        href: https://www.linkedin.com/in/yucheng-wang-a9b431214/ 
         target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
+      
+      - icon: envelope
+        href: mailto:yuw260@pitt.edu 
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "Yucheng Wang &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Powered by [Quarto](https://quarto.org)"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/ywang-stat
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+      - icon: envelope
+        href: mailto:yuw260@pitt.edu 
   
   search:
     location: navbar
@@ -79,21 +66,19 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
-#  repo-actions: [edit, issue, source]
+  repo-url: https://github.com/ywang-stat/yucheng-wang.github.io # 这里建议填完整仓库地址
   
   open-graph: true
   
   twitter-card: true 
-#  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://yucheng-wang.github.io" # 确保这和你 GitHub Settings 里的 Pages 域名一致
   
   google-analytics:
-    tracking-id: ""  # Please delete or replace with your own tracking ID
+    tracking-id: "" 
     anonymize-ip: true 
 
-bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
+bibliography: references.bib 
 
 format:
   html:
@@ -108,6 +93,4 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
     include-in-header: "files/includes/_academic.qmd"
-
