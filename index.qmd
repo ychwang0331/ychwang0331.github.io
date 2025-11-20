@@ -1,8 +1,8 @@
 ---
 title: "Yucheng Wang"
-image: files/profile.jpeg  # 确保你已经把照片放进 files 文件夹，并叫这个名字
+image: files/profile.jpeg
 about:
-  template: jolla  # 这是一个非常经典的居中模版
+  template: trestles
   links:
     - icon: envelope
       text: Email
@@ -18,17 +18,23 @@ about:
       href: files/cv.pdf
 ---
 
-I am a Ph.D. Student in Statistics at the **University of Pittsburgh**, expecting to graduate in 2027. I am also an **Andrew W. Mellon Predoctoral Fellow** (2025-2026).
+## Bio
 
-Previously, I obtained my M.S. in Statistical Practice from **Carnegie Mellon University** and my B.S. in Statistics from **SUSTech**.
+I am a Ph.D. Candidate in Statistics at the **University of Pittsburgh**, honored to be an **Andrew W. Mellon Predoctoral Fellow** (2025-2026).
+
+My research focuses on developing **statistically rigorous and computationally efficient frameworks** for high-dimensional genomic data. I am particularly interested in Bayesian methodology and its application to **cell-free DNA (cfDNA)** for non-invasive disease diagnostics.
+
+Prior to my Ph.D., I obtained my M.S. in Statistical Practice from **Carnegie Mellon University** and my B.S. in Statistics from **SUSTech**.
 
 ## Research Interests
 
-My research lies at the intersection of **Bayesian Statistics**, **Statistical Genomics**, and **Machine Learning**. 
+My research interests include **Bayesian Statistics**, **Machine Learning**, and **Statistical Genomics**. 
 
-I am particularly interested in developing rigorous statistical frameworks for **cell-free DNA (cfDNA)** analysis to advance non-invasive disease diagnostics. My work involves constructing novel probabilistic models (e.g., Bayesian tree-based models, spatial probit models) and implementing high-performance computing algorithms in **C++ and R**.
+I have specialized expertise in **High-Performance Computing (HPC)**, **Parallel Computing**, and **Rcpp implementation**, aiming to develop scalable tools for large-scale biomedical data
 
-## Experience
+## Selected Experience
 
-* **Bioinformatics Software Engineer Intern** | Signature Da (2025)
-* **Algorithm Engineer Intern** | JD.com (2020)
+* **Bioinformatics Software Engineer Intern | SignatureDx** (2025)
+    * Developed ML-driven cfDNA deconvolution frameworks for monitoring organ-transplant rejection.
+* **Algorithm Engineer Intern | JD.com** (2020)
+    * Built large-scale recommendation pipelines using PySpark and LightGBM for millions of users.

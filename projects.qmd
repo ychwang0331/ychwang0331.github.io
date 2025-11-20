@@ -6,7 +6,7 @@ listing:
 - id: projects
   sort: "started desc"
   type: table
-  fields: [image, title, author, subtitle, description, funding, started, ended]
+  fields: [image, title, author, subtitle, description, started, ended]
   grid-item-align: left
   grid-columns: 3
   image-height: 30px

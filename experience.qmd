@@ -1,0 +1,90 @@
+---
+title: "Teaching & Academic Service"
+description-meta: "Teaching experience and academic service of Yucheng Wang"
+title-block-banner: false
+---
+
+## Fellowships
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2 .mt-4}
+![](files/images/pitt_logo.png) 
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+### **Andrew W. Mellon Predoctoral Fellowship**
+**University of Pittsburgh** | *2025 - 2026*
+
+Awarded the prestigious Andrew W. Mellon Predoctoral Fellowship, providing full support for dissertation research.
+
+:::
+
+:::
+
+<hr>
+
+## Teaching Experience
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2 .mt-4}
+![](files/images/pitt_logo.png) 
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+### **University of Pittsburgh**
+*Teaching Assistant*
+
+* **Fall 2023 - Spring 2024**
+    * **STAT 1281:** Data Science with Python
+    * **STAT 1000:** Applied Statistical Methods
+* **Fall 2022 - Spring 2023**
+    * **STAT 1000:** Applied Statistical Methods
+    * **STAT 0800:** Statistics in the Modern World
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2 .mt-4}
+![](files/images/cmu_logo.png) 
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+### **Carnegie Mellon University**
+*Teaching Assistant*
+
+* **Fall 2021 - Spring 2022**
+    * **36-462/662:** Methods of Statistical Learning
+    * *Assisted students with concepts in high-dimensional regression, classification, and clustering methods.*
+
+:::
+
+:::
+
+<hr>
+
+## Misc / Fun Facts
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .mt-4}
+{{< video files/images/powerlifting.mp4 aspect-ratio="4x3" >}}
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+### **Amateur Powerlifter**
+*"Super amateur, but passionate."*
+
+Outside of statistics, I am a dedicated powerlifting enthusiast. I enjoy the discipline of the "Big Three" (Squat, Bench, Deadlift) and applying the same consistency in the gym as I do in research.
+
+:::
+
+:::

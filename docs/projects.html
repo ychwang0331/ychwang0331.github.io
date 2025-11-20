@@ -81,9 +81,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-author','listing-subtitle','listing-description','listing-funding','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-author','listing-subtitle','listing-description','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-subtitle","listing-author","listing-description","listing-started","listing-ended","listing-funding","listing-categories"],
+      searchColumns: ["listing-title","listing-subtitle","listing-author","listing-description","listing-started","listing-ended","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -208,12 +208,8 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./experience.qmd"> 
+    <a class="nav-link" href="./experience.html"> 
 <span class="menu-text">Experience</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
-<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -303,9 +299,6 @@ window.Quarto = {
       <option value="listing-ended" data-direction="asc">
         End
       </option>
-      <option value="listing-funding" data-direction="asc">
-        Funding
-      </option>
     </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -338,10 +331,6 @@ window.Quarto = {
 </th>
 
 <th>
-<a class="sort" data-sort="listing-funding" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Funding</a>
-</th>
-
-<th>
 <a class="sort" data-sort="listing-started" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Start</a>
 </th>
 
@@ -353,7 +342,7 @@ window.Quarto = {
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="QmF5ZXNpYW4lMjBTdGF0aXN0aWNzJTJDR2Vub21pY3MlMkNDJTJCJTJC" data-listing-title-sort="cf-TREBLE: A Novel Cell-free DNA Analysis Framework">
+<tr data-index="0" data-categories="QmF5ZXNpYW4lMjBTdGF0aXN0aWNzJTJDTWV0aHlsYXRpb24lMkNjZkROQSUyQ0MlMkIlMkI=" data-listing-title-sort="cf-TREBLE: A Novel Cell-free DNA Analysis Framework">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -368,9 +357,6 @@ window.Quarto = {
 </td>
 <td>
 <span class="listing-description">Proposed a rigorous Bayesian statistical framework for large-scale methylation-data analysis. Developed a novel tree-based hierarchical model and reimplemented core methods in C++ for 70% runtime improvement.</span>
-</td>
-<td>
-<span class="listing-funding">Andrew W. Mellon Predoctoral Fellowship</span>
 </td>
 <td>
 <span class="listing-started">Nov 2023</span>
@@ -398,9 +384,6 @@ window.Quarto = {
 <span class="listing-description">Developed a likelihood-based fragment-level cfDNA deconvolution method capturing CpG correlations via a spatial probit model with a Matérn kernel. Implemented efficient Gibbs sampling for HPC clusters.</span>
 </td>
 <td>
-<span class="listing-funding">&nbsp;</span>
-</td>
-<td>
 <span class="listing-started">Mar 2024</span>
 </td>
 <td>
@@ -424,9 +407,6 @@ window.Quarto = {
 </td>
 <td>
 <span class="listing-description">Built an automated ETL pipeline for continuous weather-data acquisition. Developed predictive models using XGBoost and ARIMA, achieving high agreement with official forecasts.</span>
-</td>
-<td>
-<span class="listing-funding">&nbsp;</span>
 </td>
 <td>
 <span class="listing-started">Feb 2022</span>
@@ -454,9 +434,6 @@ window.Quarto = {
 <span class="listing-description">Analyzed cfDNA methylation profiles from 637 endometriosis cases. Identified key immune and endothelial cell variation factors (Factor 11) and potential biomarkers for minimally invasive diagnosis.</span>
 </td>
 <td>
-<span class="listing-funding">&nbsp;</span>
-</td>
-<td>
 <span class="listing-started">Aug 2023</span>
 </td>
 <td>
@@ -465,7 +442,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="4" data-categories="U3Vydml2YWwlMjBBbmFseXNpcyUyQ0dXQVMlMkNQcmVjaXNpb24lMjBNZWRpY2luZQ==" data-listing-title-sort="Admixture and Survival Analysis of Heart Failure">
+<tr data-index="4" data-categories="U3Vydml2YWwlMjBBbmFseXNpcyUyQ0dXQVM=" data-listing-title-sort="Admixture and Survival Analysis of Heart Failure">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -480,9 +457,6 @@ window.Quarto = {
 </td>
 <td>
 <span class="listing-description">Estimated African ancestry proportions in 505 patients via admixture modeling. Conducted GWAS to identify genetic markers linked to treatment efficacy and mortality risk.</span>
-</td>
-<td>
-<span class="listing-funding">&nbsp;</span>
 </td>
 <td>
 <span class="listing-started">Aug 2023</span>

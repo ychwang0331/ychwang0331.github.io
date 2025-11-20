@@ -7,39 +7,46 @@
     "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
+    "objectID": "publications.html#manuscripts-works-in-progress",
+    "href": "publications.html#manuscripts-works-in-progress",
     "title": "Publications",
-    "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "section": "Manuscripts & Works in Progress",
+    "text": "Manuscripts & Works in Progress\nMy research focuses on statistical genomics and Bayesian methodology. Below is a summary of my current manuscripts.\nFull texts, supplementary data, and reproducibility code will be made available here upon final publication.\n\n\n1. A Novel Cell-free DNA Analysis Framework (cf-TREBLE)\n\nStatus: Under review at Nature Communications.\n\n\n\n2. Cell-free DNA Methylation Analysis for Endometriosis\n\nStatus: Accepted with minor revision at Molecular Human Reproduction (Molehr)."
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yucheng Wang",
+    "section": "",
+    "text": "I am a Ph.D. Candidate in Statistics at the University of Pittsburgh, honored to be an Andrew W. Mellon Predoctoral Fellow (2025-2026).\nMy research focuses on developing statistically rigorous and computationally efficient frameworks for high-dimensional genomic data. I am particularly interested in Bayesian methodology and its application to cell-free DNA (cfDNA) for non-invasive disease diagnostics.\nPrior to my Ph.D., I obtained my M.S. in Statistical Practice from Carnegie Mellon University and my B.S. in Statistics from SUSTech."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Yucheng Wang",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Funder\n      \n      \n        Team\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n \n\n\ncf-TREBLE: A Novel Cell-free DNA Analysis Framework\n\n\nYucheng Wang\n\n\nUnder review at Nature Communications\n\n\nProposed a rigorous Bayesian statistical framework for large-scale methylation-data analysis. Developed a novel tree-based hierarchical model and reimplemented core methods in C++ for 70% runtime improvement.\n\n\nAndrew W. Mellon Predoctoral Fellowship\n\n\nNov 2023\n\n\nAug 2025\n\n\n\n\n\n\n \n\n\nFragment-based Deconvolution Algorithm\n\n\nYucheng Wang\n\n\nMethodological Research\n\n\nDeveloped a likelihood-based fragment-level cfDNA deconvolution method capturing CpG correlations via a spatial probit model with a Matérn kernel. Implemented efficient Gibbs sampling for HPC clusters.\n\n\n \n\n\nMar 2024\n\n\nPresent\n\n\n\n\n\n\n \n\n\nAutomated Weather Forecasting Pipeline\n\n\nYucheng Wang\n\n\nCollaborative Project with Allegheny County Health Dept\n\n\nBuilt an automated ETL pipeline for continuous weather-data acquisition. Developed predictive models using XGBoost and ARIMA, achieving high agreement with official forecasts.\n\n\n \n\n\nFeb 2022\n\n\nMay 2022\n\n\n\n\n\n\n \n\n\nCell-free DNA Methylation Analysis for Endometriosis\n\n\nYucheng Wang\n\n\nClinical Data Analysis (Minor Revision)\n\n\nAnalyzed cfDNA methylation profiles from 637 endometriosis cases. Identified key immune and endothelial cell variation factors (Factor 11) and potential biomarkers for minimally invasive diagnosis.\n\n\n \n\n\nAug 2023\n\n\nDec 2024\n\n\n\n\n\n\n \n\n\nAdmixture and Survival Analysis of Heart Failure\n\n\nYucheng Wang\n\n\nCollaborative Project with Pitt School of Medicine\n\n\nEstimated African ancestry proportions in 505 patients via admixture modeling. Conducted GWAS to identify genetic markers linked to treatment efficacy and mortality risk.\n\n\n \n\n\nAug 2023\n\n\nJan 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "I am a Ph.D. Candidate in Statistics at the University of Pittsburgh, honored to be an Andrew W. Mellon Predoctoral Fellow (2025-2026).\nMy research focuses on developing statistically rigorous and computationally efficient frameworks for high-dimensional genomic data. I am particularly interested in Bayesian methodology and its application to cell-free DNA (cfDNA) for non-invasive disease diagnostics.\nPrior to my Ph.D., I obtained my M.S. in Statistical Practice from Carnegie Mellon University and my B.S. in Statistics from SUSTech."
   },
   {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Yucheng Wang",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research interests include Bayesian Statistics, Machine Learning, and Statistical Genomics.\nI have specialized expertise in High-Performance Computing (HPC), Parallel Computing, and Rcpp implementation, aiming to develop scalable tools for large-scale biomedical data"
   },
   {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
+    "objectID": "index.html#selected-experience",
+    "href": "index.html#selected-experience",
+    "title": "Yucheng Wang",
+    "section": "Selected Experience",
+    "text": "Selected Experience\n\nBioinformatics Software Engineer Intern | SignatureDx (2025)\n\nDeveloped ML-driven cfDNA deconvolution frameworks for monitoring organ-transplant rejection.\n\nAlgorithm Engineer Intern | JD.com (2020)\n\nBuilt large-scale recommendation pipelines using PySpark and LightGBM for millions of users."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "About the news"
+    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",
@@ -56,60 +63,53 @@
     "text": "Links\nPublished paper"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "About the news"
   },
   {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
-    "title": "Teaching",
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "About the news"
   },
   {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
-    "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
-    "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Funder\n      \n      \n        Team\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n \n\n\ncf-TREBLE: A Novel Cell-free DNA Analysis Framework\n\n\nYucheng Wang\n\n\nUnder review at Nature Communications\n\n\nProposed a rigorous Bayesian statistical framework for large-scale methylation-data analysis. Developed a novel tree-based hierarchical model and reimplemented core methods in C++ for 70% runtime improvement.\n\n\nNov 2023\n\n\nAug 2025\n\n\n\n\n\n\n \n\n\nFragment-based Deconvolution Algorithm\n\n\nYucheng Wang\n\n\nMethodological Research\n\n\nDeveloped a likelihood-based fragment-level cfDNA deconvolution method capturing CpG correlations via a spatial probit model with a Matérn kernel. Implemented efficient Gibbs sampling for HPC clusters.\n\n\nMar 2024\n\n\nPresent\n\n\n\n\n\n\n \n\n\nAutomated Weather Forecasting Pipeline\n\n\nYucheng Wang\n\n\nCollaborative Project with Allegheny County Health Dept\n\n\nBuilt an automated ETL pipeline for continuous weather-data acquisition. Developed predictive models using XGBoost and ARIMA, achieving high agreement with official forecasts.\n\n\nFeb 2022\n\n\nMay 2022\n\n\n\n\n\n\n \n\n\nCell-free DNA Methylation Analysis for Endometriosis\n\n\nYucheng Wang\n\n\nClinical Data Analysis (Minor Revision)\n\n\nAnalyzed cfDNA methylation profiles from 637 endometriosis cases. Identified key immune and endothelial cell variation factors (Factor 11) and potential biomarkers for minimally invasive diagnosis.\n\n\nAug 2023\n\n\nDec 2024\n\n\n\n\n\n\n \n\n\nAdmixture and Survival Analysis of Heart Failure\n\n\nYucheng Wang\n\n\nCollaborative Project with Pitt School of Medicine\n\n\nEstimated African ancestry proportions in 505 patients via admixture modeling. Conducted GWAS to identify genetic markers linked to treatment efficacy and mortality risk.\n\n\nAug 2023\n\n\nJan 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Yucheng Wang",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Teaching & Academic Service",
     "section": "",
-    "text": "I am a Ph.D. Student in Statistics at the University of Pittsburgh, expecting to graduate in 2027. I am also an Andrew W. Mellon Predoctoral Fellow (2025-2026).\nPreviously, I obtained my M.S. in Statistical Practice from Carnegie Mellon University and my B.S. in Statistics from SUSTech."
+    "text": "University of Pittsburgh | 2025 - 2026\nAwarded the prestigious Andrew W. Mellon Predoctoral Fellowship, providing full support for dissertation research."
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Yucheng Wang",
-    "section": "Research Interests",
-    "text": "Research Interests\nMy research lies at the intersection of Bayesian Statistics, Statistical Genomics, and Machine Learning.\nI am particularly interested in developing rigorous statistical frameworks for cell-free DNA (cfDNA) analysis to advance non-invasive disease diagnostics. My work involves constructing novel probabilistic models (e.g., Bayesian tree-based models, spatial probit models) and implementing high-performance computing algorithms in C++ and R."
+    "objectID": "experience.html#fellowships",
+    "href": "experience.html#fellowships",
+    "title": "Teaching & Academic Service",
+    "section": "",
+    "text": "University of Pittsburgh | 2025 - 2026\nAwarded the prestigious Andrew W. Mellon Predoctoral Fellowship, providing full support for dissertation research."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Yucheng Wang",
-    "section": "Experience",
-    "text": "Experience\n\nBioinformatics Software Engineer Intern | Signature Da (2025)\nAlgorithm Engineer Intern | JD.com (2020)"
+    "objectID": "experience.html#teaching-experience",
+    "href": "experience.html#teaching-experience",
+    "title": "Teaching & Academic Service",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\n\n\n\n\nUniversity of Pittsburgh\nTeaching Assistant\n\nFall 2023 - Spring 2024\n\nSTAT 1281: Data Science with Python\nSTAT 1000: Applied Statistical Methods\n\nFall 2022 - Spring 2023\n\nSTAT 1000: Applied Statistical Methods\nSTAT 0800: Statistics in the Modern World\n\n\n\n\n\n\n\n\n\nCarnegie Mellon University\nTeaching Assistant\n\nFall 2021 - Spring 2022\n\n36-462/662: Methods of Statistical Learning\nAssisted students with concepts in high-dimensional regression, classification, and clustering methods."
+  },
+  {
+    "objectID": "experience.html#misc-fun-facts",
+    "href": "experience.html#misc-fun-facts",
+    "title": "Teaching & Academic Service",
+    "section": "Misc / Fun Facts",
+    "text": "Misc / Fun Facts\n\n\n\n\n\nAmateur Powerlifter\n“Super amateur, but passionate.”\nOutside of statistics, I am a dedicated powerlifting enthusiast. I enjoy the discipline of the “Big Three” (Squat, Bench, Deadlift) and applying the same consistency in the gym as I do in research."
   },
   {
     "objectID": "people.html",
