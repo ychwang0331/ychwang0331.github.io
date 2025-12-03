@@ -10,7 +10,7 @@ website:
   title: "Yucheng Wang"
   image: "files/profile.jpeg" # 注意：你这里写的是 jpeg，请确保你的照片文件后缀确实是 .jpeg 而不是 .jpg
   description: "Personal website of Yucheng Wang, Ph.D. Student in Statistics."
-  
+  google-analytics: "G-8E6J2T58NP"
   navbar:
     background: light 
 
